@@ -1,4 +1,4 @@
-# Global-CO2-Product
+# Multi-source satellite XCO2 fusion products
 ## dataset
 Global Multi-source Satellite Data Fusion (2015~2021) CO2 Concentration Products
 ## Source of dataset
